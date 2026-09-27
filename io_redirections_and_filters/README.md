@@ -20,3 +20,4 @@ Proyecto de shell: redirecciones de entrada/salida y filtros.
 - `16-whatsnext`: muestra las líneas de /etc/passwd con "root" y las 3 líneas siguientes.
 - `17-hidethisword`: muestra las líneas de /etc/passwd que no contienen "bin".
 - `18-letteronly`: muestra las líneas de /etc/ssh/sshd_config que comienzan con una letra.
+- `19-AZ`: reemplaza los caracteres A y c de la entrada por Z y e.
