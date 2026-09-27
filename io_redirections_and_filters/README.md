@@ -23,3 +23,4 @@ Proyecto de shell: redirecciones de entrada/salida y filtros.
 - `19-AZ`: reemplaza los caracteres A y c de la entrada por Z y e.
 - `20-hiago`: elimina todas las letras c y C de la entrada.
 - `21-reverse`: invierte la entrada.
+- `22-users_and_homes`: muestra los usuarios y sus directorios de inicio, ordenados por usuario.
