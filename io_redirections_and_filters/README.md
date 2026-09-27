@@ -9,3 +9,4 @@ Proyecto de shell: redirecciones de entrada/salida y filtros.
 - `5-firstlines`: muestra las primeras 10 líneas de /etc/passwd.
 - `6-third_line`: muestra la tercera línea del archivo iacta.
 - `7-file`: crea un archivo con un nombre lleno de caracteres especiales que contiene "Best School".
+- `8-cwd_state`: guarda la salida de ls -la en el archivo ls_cwd_content.
