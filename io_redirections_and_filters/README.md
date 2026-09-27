@@ -6,3 +6,4 @@ Proyecto de shell: redirecciones de entrada/salida y filtros.
 - `2-hellofile`: muestra el contenido de /etc/passwd.
 - `3-twofiles`: muestra el contenido de /etc/passwd y /etc/hosts.
 - `4-lastlines`: muestra las últimas 10 líneas de /etc/passwd.
+- `5-firstlines`: muestra las primeras 10 líneas de /etc/passwd.
