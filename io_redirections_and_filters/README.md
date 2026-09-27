@@ -17,3 +17,4 @@ Proyecto de shell: redirecciones de entrada/salida y filtros.
 - `13-unique`: imprime las palabras de la entrada que aparecen una sola vez, ordenadas.
 - `14-findthatword`: muestra las líneas de /etc/passwd que contienen "root".
 - `15-countthatword`: cuenta las líneas de /etc/passwd que contienen "bin".
+- `16-whatsnext`: muestra las líneas de /etc/passwd con "root" y las 3 líneas siguientes.
