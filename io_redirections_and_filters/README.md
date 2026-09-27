@@ -11,3 +11,4 @@ Proyecto de shell: redirecciones de entrada/salida y filtros.
 - `7-file`: crea un archivo con un nombre lleno de caracteres especiales que contiene "Best School".
 - `8-cwd_state`: guarda la salida de ls -la en el archivo ls_cwd_content.
 - `9-duplicate_last_line`: duplica la última línea del archivo iacta.
+- `10-no_more_js`: elimina todos los archivos .js del directorio actual y sus subdirectorios.
