@@ -16,3 +16,4 @@ Proyecto de shell: redirecciones de entrada/salida y filtros.
 - `12-newest_files`: muestra los 10 archivos más recientes del directorio actual.
 - `13-unique`: imprime las palabras de la entrada que aparecen una sola vez, ordenadas.
 - `14-findthatword`: muestra las líneas de /etc/passwd que contienen "root".
+- `15-countthatword`: cuenta las líneas de /etc/passwd que contienen "bin".
